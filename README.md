@@ -8,7 +8,7 @@ Repositório criado com a finalidade de guardar meus `códigos e exercícios` e 
 * 2019.1
 * 2019.2
 * 2020.1
-* [2020.2](https://github.com/Pepyn0/UFPI/2k20.1)
+* [2020.2](https://github.com/Pepyn0/UFPI/tree/master/2k20.2)
 
 ## Dúvidas?
 [Contacte-me](mailto:brpepy@gmail.com).
