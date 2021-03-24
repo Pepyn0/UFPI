@@ -1038,3 +1038,706 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+2k20.1/ED/Avaliativa01/01
+2k20.1/ED/Avaliativa01/01.c
+2k20.1/ED/Avaliativa01/02.c
+2k20.1/ED/Avaliativa01/04.c
+2k20.1/ED/Avaliativa01/Avaliativa01.rar
+2k20.1/ED/Avaliativa01/Prática 1 - sigaa.pdf
+2k20.1/ED/Avaliativa02/01.c
+2k20.1/ED/Avaliativa02/02.c
+2k20.1/ED/Avaliativa02/03.c
+2k20.1/ED/Avaliativa02/Avaliativa02.rar
+2k20.1/ED/Avaliativa02/entrada.in
+2k20.1/ED/Avaliativa02/m.txt
+2k20.1/ED/Avaliativa02/matriz.txt
+2k20.1/ED/Avaliativa02/Prática 2 - sigaa.pdf
+2k20.1/ED/Avaliativa02/Prática 2.zip
+2k20.1/ED/Avaliativa02/saida.out.save
+2k20.1/ED/Avaliativa02/t1
+2k20.1/ED/Avaliativa03/cadastro.c
+2k20.1/ED/Avaliativa03/cadastro.h
+2k20.1/ED/Avaliativa03/imagem.c
+2k20.1/ED/Avaliativa03/imagem.h
+2k20.1/ED/Avaliativa03/main.c
+2k20.1/ED/Avaliativa03/manipulaimg.c
+2k20.1/ED/Avaliativa03/manipulaimg.h
+2k20.1/ED/Avaliativa03/Prátrica 3.docx
+2k20.1/ED/Avaliativa03/Prátrica-3.pdf
+2k20.1/ED/Avaliativa04/Pátrica 4.docx
+2k20.1/ED/Avaliativa04/Pátrica-4.pdf
+2k20.1/ED/Final/01.c
+2k20.1/ED/Final/02
+2k20.1/ED/Final/02.c
+2k20.1/ED/Final/03
+2k20.1/ED/Final/03.c
+2k20.1/ED/Final/ex.c
+2k20.1/ED/Final/matriz.txt
+2k20.1/ED/Final/Prova_Final.pdf
+2k20.1/ED/Lixo/nonato.zip
+2k20.1/ED/Tarefa01/01_1.pdf
+2k20.1/ED/Tarefa01/01.c
+2k20.1/ED/Tarefa01/02.c
+2k20.1/ED/Tarefa01/05.c
+2k20.1/ED/Tarefa01/ATIVIDADE - 01.pdf
+2k20.1/ED/Tarefa01/t1
+2k20.1/ED/Tarefa02/01.c
+2k20.1/ED/Tarefa02/02.1Pointer - introduction.pdf
+2k20.1/ED/Tarefa02/02.c
+2k20.1/ED/Tarefa02/03.c
+2k20.1/ED/Tarefa02/04.c
+2k20.1/ED/Tarefa02/05.c
+2k20.1/ED/Tarefa02/07.c
+2k20.1/ED/Tarefa02/08.c
+2k20.1/ED/Tarefa03/Tarefa03.rar
+2k20.1/ED/Tarefa03/lista1/01.c
+2k20.1/ED/Tarefa03/lista1/02.c
+2k20.1/ED/Tarefa03/lista1/03.c
+2k20.1/ED/Tarefa03/lista1/04.c
+2k20.1/ED/Tarefa03/lista1/05.txt
+2k20.1/ED/Tarefa03/lista1/06.c
+2k20.1/ED/Tarefa03/lista1/07.c
+2k20.1/ED/Tarefa03/lista1/08.c
+2k20.1/ED/Tarefa03/lista1/09.c
+2k20.1/ED/Tarefa03/lista1/10.c
+2k20.1/ED/Tarefa03/lista1/11.c
+2k20.1/ED/Tarefa03/lista1/12.c
+2k20.1/ED/Tarefa03/lista1/13.c
+2k20.1/ED/Tarefa03/lista1/14.c
+2k20.1/ED/Tarefa03/lista1/lista_1.pdf
+2k20.1/ED/Tarefa03/lista1/mypointers.c
+2k20.1/ED/Tarefa03/lista1/mypointers.h
+2k20.1/ED/Tarefa03/lista2/01.txt
+2k20.1/ED/Tarefa03/lista2/03.c
+2k20.1/ED/Tarefa03/lista2/04.c
+2k20.1/ED/Tarefa03/lista2/05.c
+2k20.1/ED/Tarefa03/lista2/06.c
+2k20.1/ED/Tarefa03/lista2/07.c
+2k20.1/ED/Tarefa03/lista2/08.c
+2k20.1/ED/Tarefa03/lista2/lista_2.pdf
+2k20.1/ED/Tarefa03/lista2/mypointers2.c
+2k20.1/ED/Tarefa03/lista2/mypointers2.h
+2k20.1/ED/Tarefa03/lista3/lista_3.pdf
+2k20.1/ED/Tarefa04/structs.zip
+2k20.1/ED/Tarefa04/Tarefa04.rar
+2k20.1/ED/Tarefa04/lista2/01.c
+2k20.1/ED/Tarefa04/lista2/02.c
+2k20.1/ED/Tarefa04/lista2/03.c
+2k20.1/ED/Tarefa04/lista2/04.c
+2k20.1/ED/Tarefa04/lista2/Lista 2.pdf
+2k20.1/ED/Tarefa04/lista2/t1
+2k20.1/ED/Tarefa04/lista4/01.c
+2k20.1/ED/Tarefa04/lista4/02.c
+2k20.1/ED/Tarefa04/lista4/03.c
+2k20.1/ED/Tarefa04/lista4/lista 4.docx
+2k20.1/ED/Tarefa04/lista4/t1
+2k20.1/ED/Tarefa05/listas.zip
+2k20.1/ED/Tarefa05/Tarefa05.rar
+2k20.1/ED/Tarefa05/lista1/01.c
+2k20.1/ED/Tarefa05/lista1/02.c
+2k20.1/ED/Tarefa05/lista1/03.c
+2k20.1/ED/Tarefa05/lista1/04.c
+2k20.1/ED/Tarefa05/lista1/05.c
+2k20.1/ED/Tarefa05/lista1/06.txt
+2k20.1/ED/Tarefa05/lista1/07.c
+2k20.1/ED/Tarefa05/lista1/08.c
+2k20.1/ED/Tarefa05/lista1/09.c
+2k20.1/ED/Tarefa05/lista1/10.c
+2k20.1/ED/Tarefa05/lista2/01.c
+2k20.1/ED/Tarefa05/lista2/02.c
+2k20.1/ED/Tarefa05/lista2/03.c
+2k20.1/ED/Tarefa05/lista2/05.c
+2k20.1/ED/Tarefa05/lista3/01.c
+2k20.1/ED/Tarefa05/listas/06.recursividade-1.pdf
+2k20.1/ED/Tarefa05/listas/Lista 1.pdf
+2k20.1/ED/Tarefa05/listas/lista 2.pdf
+2k20.1/ED/Tarefa05/listas/Parte 1.pdf
+2k20.1/ED/Tarefa06/TAD_questoes.docx
+2k20.1/ED/Tarefa06/Tarefa06.rar
+2k20.1/ED/Tarefa06/01/01.c
+2k20.1/ED/Tarefa06/01/calcular.c
+2k20.1/ED/Tarefa06/01/calcular.h
+2k20.1/ED/Tarefa06/02/02.c
+2k20.1/ED/Tarefa06/02/circulo.c
+2k20.1/ED/Tarefa06/02/circulo.h
+2k20.1/ED/Tarefa06/03/03.c
+2k20.1/ED/Tarefa06/03/matriz.c
+2k20.1/ED/Tarefa06/03/matriz.h
+2k20.1/ED/Tarefa06/04/04.c
+2k20.1/ED/Tarefa06/04/matriz.c
+2k20.1/ED/Tarefa06/04/matriz.h
+2k20.1/ED/Tarefa06/10/10.c
+2k20.1/ED/Tarefa06/10/mystring.c
+2k20.1/ED/Tarefa06/10/mystring.h
+2k20.1/ED/Tarefa06/11/11.c
+2k20.1/ED/Tarefa06/11/tconjunto.c
+2k20.1/ED/Tarefa06/11/tconjunto.h
+2k20.1/ED/Tarefa07/08.listas.pdf
+2k20.1/ED/Tarefa07/ListaEncadeadaCircularOrdenada.c
+2k20.1/ED/Tarefa07/ListaEncadeadaCircularOrdenada.h
+2k20.1/ED/Tarefa07/main.c
+2k20.1/ED/Tarefa07/t1
+2k20.1/ED/Tarefa07/Tarefa07.rar
+2k20.1/IHC/1ª AVALIAÇÃO - 2020-1_Pablo.pdf
+2k20.1/IHC/1ª AVALIAÇÃO - 2020-1.doc
+2k20.1/IHC/Critérios para análise dos sistemas - 3ª AVALIAÇÃO 2020-1v2.pdf
+2k20.1/IHC/Exercícios - Capítulo 1.odt
+2k20.1/IHC/Exercícios - Capítulo 2.odt
+2k20.1/IHC/Exercícios - Capítulo 3.pdf
+2k20.1/IHC/Forun1.txt
+2k20.1/IHC/Forun2.txt
+2k20.1/IHC/IHC - AULA 2.pdf
+2k20.1/IHC/IHC - AULA 3.pdf
+2k20.1/IHC/IHC - AULA 4.pdf
+2k20.1/IHC/IHC - AULA 5.pdf
+2k20.1/IHC/IHC_-_Template.odp
+2k20.1/IHC/ihcArthur.pdf
+2k20.1/IHC/IHCFilipe.odp
+2k20.1/IHC/INTERAÇÃO HUMANO-COMPUTADOR.pdf
+2k20.1/IHC/MODELO_DE_RESENHA.docx
+2k20.1/IHC/modelosparapublicaodeartigos.rar
+2k20.1/IHC/modelosparapublicaodeartigos.zip
+2k20.1/IHC/Apresentação/8.4_Filipe.ppt
+2k20.1/IHC/Apresentação/388-595-1-PB.pdf
+2k20.1/IHC/Apresentação/IHC_-_Template.odp
+2k20.1/IHC/Apresentação/ihc_8.3_1_Artur.pptx
+2k20.1/IHC/Apresentação/ihc_8.3_Atur.pptx
+2k20.1/IHC/Apresentação/resumo.txt
+2k20.1/IHC/Resenha/540-747-1-PB.pdf
+2k20.1/IHC/Resenha/RESENHA_Pablo.pdf
+2k20.1/IHC/Resenha/Resenha.rar
+2k20.1/IHC/Template_SBC/sbc_template.doc
+2k20.1/IHC/Template_SBC/sbc_template.odt
+2k20.1/IHC/Template_SBC/sbc_template.pdf
+2k20.1/IHC/Template_SBC/template-openoffice_stw_4861226a.jpg
+2k20.1/IHC/Template_SBC/template-openoffice_stw_m1f18f63d.png
+2k20.1/IHC/Template_SBC/template-openoffice_stw_m488dc906.png
+2k20.1/IHC/Template_SBC/template-openoffice.stw
+2k20.1/IHC/Template_SBC/template-latex/caption2.sty
+2k20.1/IHC/Template_SBC/template-latex/fig1.jpg
+2k20.1/IHC/Template_SBC/template-latex/fig2.jpg
+2k20.1/IHC/Template_SBC/template-latex/sbc-template.aux
+2k20.1/IHC/Template_SBC/template-latex/sbc-template.bbl
+2k20.1/IHC/Template_SBC/template-latex/sbc-template.bib
+2k20.1/IHC/Template_SBC/template-latex/sbc-template.blg
+2k20.1/IHC/Template_SBC/template-latex/sbc-template.dvi
+2k20.1/IHC/Template_SBC/template-latex/sbc-template.sty
+2k20.1/IHC/Template_SBC/template-latex/sbc-template.tex
+2k20.1/IHC/Template_SBC/template-latex/sbc.bst
+2k20.1/IHC/Template_SBC/template-latex/table.jpg
+2k20.1/IHC/final/IHC_-_Template.pdf
+2k20.1/IHC/final/IHCPablo.pdf
+2k20.1/IHC/final/SlidesRenan.odp
+2k20.1/IHC/modelosparapublicaodeartigos/Template_SBC/sbc_template.doc
+2k20.1/IHC/modelosparapublicaodeartigos/Template_SBC/sbc_template.odt
+2k20.1/IHC/modelosparapublicaodeartigos/Template_SBC/sbc_template.pdf
+2k20.1/IHC/modelosparapublicaodeartigos/Template_SBC/template-openoffice_stw_4861226a.jpg
+2k20.1/IHC/modelosparapublicaodeartigos/Template_SBC/template-openoffice_stw_m1f18f63d.png
+2k20.1/IHC/modelosparapublicaodeartigos/Template_SBC/template-openoffice_stw_m488dc906.png
+2k20.1/IHC/modelosparapublicaodeartigos/Template_SBC/template-openoffice.stw
+2k20.1/IHC/modelosparapublicaodeartigos/Template_SBC/template-latex/caption2.sty
+2k20.1/IHC/modelosparapublicaodeartigos/Template_SBC/template-latex/fig1.jpg
+2k20.1/IHC/modelosparapublicaodeartigos/Template_SBC/template-latex/fig2.jpg
+2k20.1/IHC/modelosparapublicaodeartigos/Template_SBC/template-latex/sbc-template.aux
+2k20.1/IHC/modelosparapublicaodeartigos/Template_SBC/template-latex/sbc-template.bbl
+2k20.1/IHC/modelosparapublicaodeartigos/Template_SBC/template-latex/sbc-template.bib
+2k20.1/IHC/modelosparapublicaodeartigos/Template_SBC/template-latex/sbc-template.blg
+2k20.1/IHC/modelosparapublicaodeartigos/Template_SBC/template-latex/sbc-template.dvi
+2k20.1/IHC/modelosparapublicaodeartigos/Template_SBC/template-latex/sbc-template.sty
+2k20.1/IHC/modelosparapublicaodeartigos/Template_SBC/template-latex/sbc-template.tex
+2k20.1/IHC/modelosparapublicaodeartigos/Template_SBC/template-latex/sbc.bst
+2k20.1/IHC/modelosparapublicaodeartigos/Template_SBC/template-latex/table.jpg
+2k20.1/POO/TFinal.zip
+2k20.1/POO/Gerson/supermarket.zip
+2k20.1/POO/Gerson/supermarket/supermarket/bank.py
+2k20.1/POO/Gerson/supermarket/supermarket/main.py
+2k20.1/POO/Gerson/supermarket/supermarket/person.py
+2k20.1/POO/Gerson/supermarket/supermarket/stock.py
+2k20.1/POO/TFinal/UMLAutopeca.png
+2k20.1/POO/TFinal/src/autopeca.py
+2k20.1/POO/TFinal/src/cliente.py
+2k20.1/POO/TFinal/src/funcionario.py
+2k20.1/POO/TFinal/src/historico.py
+2k20.1/POO/TFinal/src/main.py
+2k20.1/POO/TFinal/src/pessoa.py
+2k20.1/POO/TFinal/src/produto.py
+2k20.1/POO/TFinal/src/BD/clientes.txt
+2k20.1/POO/TFinal/src/BD/estoque.txt
+2k20.1/POO/TFinal/src/BD/funcionarios.txt
+2k20.1/POO/Val/main.py
+2k20.1/POO/Val/produto.py
+2k20.1/POO/Val/Prova_final.pdf
+2k20.1/POO/Val/01/investimento.py
+2k20.1/POO/Val/01/supermercado.py
+2k20.1/POO/apresentacao/main.py
+2k20.1/POO/apresentacao/singleton.py
+2k20.1/POO/apresentacao/texto.txt
+2k20.1/POO/lista01/list1.zip
+2k20.1/POO/lista01/Lista_01_-_introducao_ao_python.pdf
+2k20.1/POO/lista02/01.py
+2k20.1/POO/lista02/02.py
+2k20.1/POO/lista02/03.py
+2k20.1/POO/lista02/04.py
+2k20.1/POO/lista02/05.py
+2k20.1/POO/lista02/06.py
+2k20.1/POO/lista02/07.py
+2k20.1/POO/lista02/Lista 02 - listas e dicionarios.pdf
+2k20.1/POO/lista02/lista02.rar
+2k20.1/POO/lista03/Lista_03_-_Introducao_a_orientacao_a_objetos.pdf
+2k20.1/POO/lista03/lista03.rar
+2k20.1/POO/lista03/01/01.py
+2k20.1/POO/lista03/01/pessoa.py
+2k20.1/POO/lista03/02/02.py
+2k20.1/POO/lista03/02/agenda.py
+2k20.1/POO/lista03/03/03.py
+2k20.1/POO/lista03/03/elevador.py
+2k20.1/POO/lista03/04/04.py
+2k20.1/POO/lista03/04/controleRemoto.py
+2k20.1/POO/lista03/04/televisao.py
+2k20.1/POO/lista04/banco.py
+2k20.1/POO/lista04/cliente.py
+2k20.1/POO/lista04/conta.py
+2k20.1/POO/lista04/corrente.py
+2k20.1/POO/lista04/ERD de hóquei.pdf
+2k20.1/POO/lista04/funcionario.py
+2k20.1/POO/lista04/main.py
+2k20.1/POO/lista04/pessoa.py
+2k20.1/POO/lista04/poupanca.py
+2k20.1/POO/slides/6 - Herança multipla e interfaces.pdf
+2k20.1/POO/slides/7 - Pradrões de projetos.pdf
+2k20.1/POO/slides/aula_01_12_2020.zip
+2k20.1/POO/slides/caelum-python-objetos-py14.pdf
+2k20.1/POO/slides/Lista 04 - Orientacao a objetos heranca e interfaces.pdf
+2k20.1/POO/slides/lista04.rar
+2k20.1/POO/slides/src.zip
+2k20.1/POO/slides/Trabalho de padrões de projetos.pdf
+2k20.1/POO/slides/trabalho04.rar
+2k20.1/SO/Documento sem título 1
+2k20.1/SO/fork.c
+2k20.1/SO/kill.c
+2k20.1/SO/mkdir.c
+2k20.1/SO/mutex
+2k20.1/SO/mutex.c
+2k20.1/SO/pthread_create_join.c
+2k20.1/SO/read.c
+2k20.1/SO/Relatorio.pdf
+2k20.1/SO/S0 - Aula 01 .pdf
+2k20.1/SO/S0 - Aula 02.pdf
+2k20.1/SO/S0 - Aula 03.pdf
+2k20.1/SO/S0 - Aula 05.pdf
+2k20.1/SO/S0 - Aula 06_part3_4.pdf
+2k20.1/SO/S0 - Aula 06_part5_8.pdf
+2k20.1/SO/S0 - Aula 06.pdf
+2k20.1/SO/S0 - Aula 07.pdf
+2k20.1/SO/S0-_atividade_1.docx
+2k20.1/SO/SO (AP3) - Projeto Final_ Mutex para Produtor-Consumidor.pdf
+2k20.1/SO/SO_ Lista2_2020_1.docx
+2k20.1/SO/SO__Lista2_2020_1.docx
+2k20.1/SO/SO__Lista2_2020_1.pdf
+2k20.1/SO/SO_Aula04.pdf
+2k20.1/SO/stat
+2k20.1/SO/stat.c
+2k20.1/SO/t1
+2k20.1/SO/teste.txt
+2k20.1/SO/teste.txt.save
+2k20.1/SO/Avaliacao03/mutex
+2k20.1/SO/Avaliacao03/mutex.c
+2k20.1/SO/Avaliacao03/mutex.txt
+2k20.1/SO/Avaliação01/SO - AP1 (2020.1)_ números pares_Pablo.pdf
+2k20.1/SO/Avaliação02/Cópia de AP2 - 2020.1 (últimos números).pdf
+2k19.2/Arquitetura/01.c
+2k19.2/Arquitetura/conversor_Pfixada_Infixa.c
+2k19.2/Arquitetura/Package Control Messages.txt
+2k19.2/Arquitetura/teste.c
+2k19.2/BD/asa.sql
+2k19.2/BD/BD pizzaria.sql
+2k19.2/BD/creat database provedor.sql
+2k19.2/BD/teste.sql
+2k19.2/BD/trabalhofinal.sql
+2k19.2/BD/TrabBD.sql
+2k19.2/ED/apresentacao.zip
+2k19.2/ED/Pablo.zip
+2k19.2/ED/tentativaTAD.zip
+2k19.2/ED/EmSala/23.c
+2k19.2/ED/EmSala/grupos.c
+2k19.2/ED/EmSala/o1.c
+2k19.2/ED/EmSala/t1
+2k19.2/ED/EmSala/ponteiros/01.c
+2k19.2/ED/EmSala/ponteiros/02.c
+2k19.2/ED/EmSala/ponteiros/04.c
+2k19.2/ED/EmSala/ponteiros/05.c
+2k19.2/ED/EmSala/ponteiros/t1
+2k19.2/ED/EmSala/ponteiros/teste.c
+2k19.2/ED/Pablo/helloword.c
+2k19.2/ED/Pablo/main.c
+2k19.2/ED/Pablo/prova.c
+2k19.2/ED/Pablo/prova.h
+2k19.2/ED/Pablo/t1
+2k19.2/ED/TAD/Cadastro.c
+2k19.2/ED/TAD/Cadastro.h
+2k19.2/ED/TAD/Main.c
+2k19.2/ED/TAD/main1.c
+2k19.2/ED/TAD/manipula.c
+2k19.2/ED/TAD/manipula.h
+2k19.2/ED/TAD/ponto.c
+2k19.2/ED/TAD/ponto.h
+2k19.2/ED/TAD/Struct Prática 28 - 08.zip
+2k19.2/ED/TAD/Struct Prática 28 - 08/imagem.c
+2k19.2/ED/TAD/Struct Prática 28 - 08/imagem.h
+2k19.2/ED/TAD/Struct Prática 28 - 08/matriz.txt
+2k19.2/ED/TAD/Struct Prática 28 - 08/Prática de Struct.c
+2k19.2/ED/TAD/Struct Prática 28 - 08/t1
+2k19.2/ED/TAD/Struct Prática 28 - 08/teste.c
+2k19.2/ED/apresentacao/binary/binaria.c
+2k19.2/ED/apresentacao/binary/binaria.h
+2k19.2/ED/apresentacao/binary/mainBinaria.c
+2k19.2/ED/apresentacao/binary/t1
+2k19.2/ED/apresentacao/experimentos/01.c
+2k19.2/ED/apresentacao/experimentos/02.c
+2k19.2/ED/apresentacao/experimentos/arvore_jhonas.c
+2k19.2/ED/apresentacao/experimentos/arvore_jhonas.h
+2k19.2/ED/apresentacao/experimentos/buscas.c
+2k19.2/ED/apresentacao/experimentos/buscas.h
+2k19.2/ED/apresentacao/experimentos/heap.py
+2k19.2/ED/apresentacao/experimentos/main.c
+2k19.2/ED/apresentacao/experimentos/Pablo.zip
+2k19.2/ED/apresentacao/experimentos/teste.txt
+2k19.2/ED/apresentacao/experimentos/testee.py
+2k19.2/ED/apresentacao/heapSort/heap.c
+2k19.2/ED/apresentacao/heapSort/heap.h
+2k19.2/ED/apresentacao/heapSort/mainHeap.c
+2k19.2/ED/apresentacao/heapSort/t1
+2k19.2/ED/apresentacao/linear/linear.c
+2k19.2/ED/apresentacao/linear/linear.h
+2k19.2/ED/apresentacao/linear/mainLinear.c
+2k19.2/ED/apresentacao/linear/t1
+2k19.2/ED/lista01/01.c
+2k19.2/ED/lista01/02.c
+2k19.2/ED/lista01/03.c
+2k19.2/ED/lista01/04.c
+2k19.2/ED/lista01/05.c
+2k19.2/ED/lista01/06.c
+2k19.2/ED/lista01/07.c
+2k19.2/ED/lista01/08.c
+2k19.2/ED/lista01/09.c
+2k19.2/ED/lista01/10.c
+2k19.2/ED/lista01/11.c
+2k19.2/ED/lista01/12.c
+2k19.2/ED/lista01/13.c
+2k19.2/ED/lista01/14.c
+2k19.2/ED/lista01/16.c
+2k19.2/ED/lista01/17.c
+2k19.2/ED/lista01/18.c
+2k19.2/ED/lista01/19.c
+2k19.2/ED/lista01/20.c
+2k19.2/ED/lista01/21.c
+2k19.2/ED/lista01/22.c
+2k19.2/ED/lista01/24.c
+2k19.2/ED/lista01/t1
+2k19.2/ED/tentativaTAD/_10__p _20__p _30__p
+2k19.2/ED/tentativaTAD/Fila.zip
+2k19.2/ED/tentativaTAD/LDuplamenteEncadeada.zip
+2k19.2/ED/tentativaTAD/LEncadeadaCircular.zip
+2k19.2/ED/tentativaTAD/lista.zip
+2k19.2/ED/tentativaTAD/ListaEncadiada.zip
+2k19.2/ED/tentativaTAD/Pilha.zip
+2k19.2/ED/tentativaTAD/t1
+2k19.2/ED/tentativaTAD/Fila/fila.c
+2k19.2/ED/tentativaTAD/Fila/fila.h
+2k19.2/ED/tentativaTAD/Fila/mainf.c
+2k19.2/ED/tentativaTAD/Fila/t1
+2k19.2/ED/tentativaTAD/LDuplamenteEncadeada/dEncad.c
+2k19.2/ED/tentativaTAD/LDuplamenteEncadeada/dEncad.h
+2k19.2/ED/tentativaTAD/LDuplamenteEncadeada/main.c
+2k19.2/ED/tentativaTAD/LDuplamenteEncadeada/teste.py
+2k19.2/ED/tentativaTAD/LEncadeada/lEncad.c
+2k19.2/ED/tentativaTAD/LEncadeada/lEncad.h
+2k19.2/ED/tentativaTAD/LEncadeada/mainEncad.c
+2k19.2/ED/tentativaTAD/LEncadeadaCircular/circular.c
+2k19.2/ED/tentativaTAD/LEncadeadaCircular/circular.h
+2k19.2/ED/tentativaTAD/LEncadeadaCircular/main.c
+2k19.2/ED/tentativaTAD/LEstatica/lista.c
+2k19.2/ED/tentativaTAD/LEstatica/lista.h
+2k19.2/ED/tentativaTAD/Pilha/mainp.c
+2k19.2/ED/tentativaTAD/Pilha/pilha.c
+2k19.2/ED/tentativaTAD/Pilha/pilha.h
+2k19.2/ED/tentativaTAD/Pilha/t1
+2k19.2/ED/tentativaTAD/praprova/list.c
+2k19.2/ED/tentativaTAD/praprova/list.h
+2k19.2/ED/trabTAD/main.c
+2k19.2/ED/trabTAD/tad1.c
+2k19.2/ED/trabTAD/tad1.h
+2k19.2/ED/trabTAD/tad2.c
+2k19.2/ED/trabTAD/tad2.h
+2k19.2/ED/trabTAD/tad3.c
+2k19.2/ED/trabTAD/tad3.h
+2k19.2/PF/01.hs
+2k19.2/PF/02.hs
+2k19.2/PF/03.hs
+2k19.2/PF/04.hs
+2k19.2/PF/05.hs
+2k19.2/PF/06.hs
+2k19.2/PF/07.hs
+2k19.2/PF/tarefa02.zip
+2k19.2/PF/teste.zip
+2k19.2/PF/teste1.hs
+2k19.2/PF/teste2.hs
+2k19.2/PF/teste3.hs
+2k19.2/PF/tarefa02/01.hs
+2k19.2/PF/tarefa02/02.hs
+2k19.2/PF/tarefa02/03.hs
+2k19.2/PF/tarefa02/04.hs
+2k19.2/PF/tarefa02/05.hs
+2k19.2/PF/tarefa02/06.txt
+2k19.2/PF/tarefa02/07.txt
+2k19.2/POO/tarefa01/01and02.py
+2k19.2/POO/tarefa01/03.py
+2k19.2/POO/tarefa01/POO-Lista 01.pdf
+2k19.2/SO/a.c
+2k19.2/SO/t1
+2k19.2/SO/thread.c
+2k19.2/SO/exercicio2/01.c
+2k19.2/SO/prova3/semaforo_prod_cons.c
+2k19.2/SO/prova3/SO - Aula 05_ Comunicação entre Processos (IPC) (1).pdf
+2k19.2/SO/prova3/SO - Aula 06_ IPC - Problema do Produtor_Consumidor(1).pdf
+2k19.2/SO/prova3/SO - Aula 07_ Escalonamento de Processos.pdf
+2k19.2/SO/prova3/SO - Aula 08_ Gerenciamento de memória.pdf
+2k19.2/SO/prova3/SO - Aula 09_ Algortimo de Sustituição de Páginas (1).pdf
+2k19.2/SO/prova3/SO - Revisão - Lista de Exercícios II - 2019.2.pdf
+2k19.2/experimentos/Package Control Messages.txt
+2k19.2/experimentos/rosalia.c
+2k19.2/experimentos/t1
+2k19.2/experimentos/vitoria.c
+2k19.2/experimentos/Angelica/Documentação.pdf
+2k19.2/experimentos/Angelica/main.c
+2k19.2/experimentos/Angelica/readme.txt
+2k19.2/experimentos/Angelica/saida.txt
+2k19.2/experimentos/Angelica/t1
+2k19.2/experimentos/Angelica/tq
+2k19.2/experimentos/Angelica/arquivo/entrada.txt
+2k19.2/experimentos/Angelica/arquivo/medio.txt
+2k19.2/experimentos/Angelica/arquivo/melhor.txt
+2k19.2/experimentos/Angelica/arquivo/pior.txt
+2k19.2/experimentos/Angelica/arquivo/SaidaParaSerComparada.txt
+2k19.2/experimentos/Angelica/arquivo/stopwords.txt
+2k19.2/experimentos/Angelica/arquivo/texto.txt
+2k19.1/Circuitos/logisim-generic-2.7.1.jar
+2k19.1/algo2/Pablo_Duarte_da_Silva.zip
+2k19.1/algo2/Prova/6
+2k19.1/algo2/Prova/aaa.c
+2k19.1/algo2/Prova/exame3_2019_1.pdf
+2k19.1/algo2/Prova/init.dat
+2k19.1/algo2/Prova/main.c
+2k19.1/algo2/Prova/Pablo_Duarte_Da_Silva.c
+2k19.1/algo2/Prova/pp.txt
+2k19.1/algo2/Prova/t1
+2k19.1/algo2/TF/main1.c
+2k19.1/algo2/TF/main2.c
+2k19.1/algo2/TF/saida.txt
+2k19.1/algo2/TF/t1
+2k19.1/algo2/TF/TF_Algo1.zip
+2k19.1/algo2/TF/TF_Algo2B.zip
+2k19.1/algo2/TF/TFAlgo2.zip
+2k19.1/algo2/TF/TF_Algo2/Documentação.pdf
+2k19.1/algo2/TF/TF_Algo2/myprecioso.c
+2k19.1/algo2/TF/testes/entrada.txt
+2k19.1/algo2/TF/testes/saida.txt
+2k19.1/algo2/TF/testes/ste.c
+2k19.1/algo2/TF/testes/t1
+2k19.1/algo2/TF/testes/vitoria.c
+2k19.1/algo2/TF/val/Entrada.txt
+2k19.1/algo2/TF/val/entradas.txt
+2k19.1/algo2/TF/val/Saida.txt
+2k19.1/algo2/TF/val/saida1.txt
+2k19.1/algo2/TF/val/t1
+2k19.1/algo2/TF/val/TrabalhoFinal.c
+2k19.1/algo2/URI/Documento sem título.pdf
+2k19.1/algo2/URI/q1.c
+2k19.1/algo2/URI/q2.c
+2k19.1/algo2/URI/q3.c
+2k19.1/algo2/URI/q4.c
+2k19.1/algo2/URI/q5.c
+2k19.1/algo2/URI/q6.c
+2k19.1/algo2/URI/q7.c
+2k19.1/algo2/URI/q8.c
+2k19.1/algo2/URI/URI.txt
+2k19.1/algo2/URI/procrastinação/1113.c
+2k19.1/algo2/URI/procrastinação/1116.c
+2k19.1/algo2/URI/procrastinação/1173.c
+2k19.1/algo2/URI/procrastinação/1237.c
+2k19.1/algo2/URI/procrastinação/1743.c
+2k19.1/algo2/URI/procrastinação/1845.c
+2k19.1/algo2/URI/procrastinação/1864.c
+2k19.1/algo2/URI/procrastinação/1929.c
+2k19.1/algo2/URI/procrastinação/2339.c
+2k19.1/algo2/URI/procrastinação/2413.c
+2k19.1/algo2/URI/procrastinação/2453.c
+2k19.1/algo2/URI/procrastinação/2457.c
+2k19.1/algo2/URI/procrastinação/2469.c
+2k19.1/algo2/URI/procrastinação/2473.c
+2k19.1/algo2/URI/procrastinação/2598.c
+2k19.1/algo2/URI/procrastinação/2786.c
+2k19.1/algo2/URI/procrastinação/2787.c
+2k19.1/algo2/URI/procrastinação/t1
+2k19.1/algo2/betunhol/11.c
+2k19.1/algo2/betunhol/111.c
+2k19.1/algo2/betunhol/1111.c
+2k19.1/algo2/betunhol/aaa.c
+2k19.1/algo2/betunhol/aaaa.c
+2k19.1/algo2/betunhol/aula.c
+2k19.1/algo2/betunhol/bbb.c
+2k19.1/algo2/betunhol/diego.c
+2k19.1/algo2/betunhol/eee.c
+2k19.1/algo2/betunhol/entrada.txt
+2k19.1/algo2/betunhol/Nova pasta.zip
+2k19.1/algo2/betunhol/q6ponteiro.c
+2k19.1/algo2/betunhol/t1
+2k19.1/algo2/betunhol/tar1.cpp
+2k19.1/algo2/betunhol/tar2.cpp
+2k19.1/algo2/betunhol/tar3.cpp
+2k19.1/algo2/betunhol/tar4.cpp
+2k19.1/algo2/betunhol/tar5.cpp
+2k19.1/algo2/betunhol/tar6.cpp
+2k19.1/algo2/betunhol/Nova pasta/tar1.cpp
+2k19.1/algo2/betunhol/Nova pasta/tar2.cpp
+2k19.1/algo2/betunhol/Nova pasta/tar3.cpp
+2k19.1/algo2/betunhol/Nova pasta/tar4.cpp
+2k19.1/algo2/betunhol/Nova pasta/tar5.cpp
+2k19.1/algo2/betunhol/Nova pasta/tar6.cpp
+2k19.1/algo2/code_arquivos/aleatoria_criacao.c
+2k19.1/algo2/code_arquivos/aleatoria_escrita.c
+2k19.1/algo2/code_arquivos/aleatoria_leitura.c
+2k19.1/algo2/code_arquivos/escreve.c
+2k19.1/algo2/code_arquivos/le.c
+2k19.1/algo2/code_arquivos/open_close.c
+2k19.1/algo2/code_arquivos/sequencial_escrita.c
+2k19.1/algo2/code_arquivos/sequencial_leitura.c
+2k19.1/algo2/code_arquivos/std_io_getchar.c
+2k19.1/algo2/code_arquivos/std_io_gets.c
+2k19.1/algo2/prova1/prova.c
+2k19.1/algo2/prova1/prova1.c
+2k19.1/algo2/prova1/prova01.zip
+2k19.1/algo2/prova1/q2.c
+2k19.1/algo2/prova1/q3.c
+2k19.1/algo2/prova1/q4.c
+2k19.1/algo2/prova1/q5.c
+2k19.1/algo2/prova1/t1
+2k19.1/algo2/prova1/prova01/q2.c
+2k19.1/algo2/prova1/prova01/q3.c
+2k19.1/algo2/prova1/prova01/q4.c
+2k19.1/algo2/prova1/prova01/q5.c
+2k19.1/algo2/prova1/prova01/t1
+2k19.1/algo2/tarefa1/atividade01.pdf
+2k19.1/algo2/tarefa1/q1
+2k19.1/algo2/tarefa1/q1.c
+2k19.1/algo2/tarefa1/q2.c
+2k19.1/algo2/tarefa1/q3.c
+2k19.1/algo2/tarefa1/q4.c
+2k19.1/algo2/tarefa1/q5.c
+2k19.1/algo2/tarefa1/q6.c
+2k19.1/algo2/tarefa1/q7.c
+2k19.1/algo2/tarefa1/q8.c
+2k19.1/algo2/tarefa1/q9.c
+2k19.1/algo2/tarefa1/q10.c
+2k19.1/algo2/tarefa1/t1
+2k19.1/algo2/tarefa10/atividade10_arq_rand.pdf
+2k19.1/algo2/tarefa10/main.c
+2k19.1/algo2/tarefa2/atividade02.pdf
+2k19.1/algo2/tarefa2/q1.c
+2k19.1/algo2/tarefa2/q2.c
+2k19.1/algo2/tarefa2/q3.c
+2k19.1/algo2/tarefa2/q4.c
+2k19.1/algo2/tarefa2/q5.c
+2k19.1/algo2/tarefa2/q6.c
+2k19.1/algo2/tarefa2/q7.c
+2k19.1/algo2/tarefa2/q8.c
+2k19.1/algo2/tarefa2/q9.c
+2k19.1/algo2/tarefa2/q10.c
+2k19.1/algo2/tarefa3/atividade03.pdf
+2k19.1/algo2/tarefa3/q1.c
+2k19.1/algo2/tarefa3/q2.c
+2k19.1/algo2/tarefa3/q3.c
+2k19.1/algo2/tarefa3/q4.c
+2k19.1/algo2/tarefa3/q5.c
+2k19.1/algo2/tarefa3/q6.c
+2k19.1/algo2/tarefa3/t1
+2k19.1/algo2/tarefa4.1/01.c
+2k19.1/algo2/tarefa4.1/02.c
+2k19.1/algo2/tarefa4.1/atividade04_Parte_01.pdf
+2k19.1/algo2/tarefa4.2/01.c
+2k19.1/algo2/tarefa4.2/atividade04_Parte_02.pdf
+2k19.1/algo2/tarefa4.2/t1
+2k19.1/algo2/tarefa5/01.c
+2k19.1/algo2/tarefa5/02.c
+2k19.1/algo2/tarefa5/03.c
+2k19.1/algo2/tarefa5/04.c
+2k19.1/algo2/tarefa5/05.c
+2k19.1/algo2/tarefa5/atividade05_ponteiros.pdf
+2k19.1/algo2/tarefa6/01.c
+2k19.1/algo2/tarefa6/atividade06 - Parte 02.pdf
+2k19.1/algo2/tarefa6/aula17_ponteiros_part2.pdf
+2k19.1/algo2/tarefa6/biblioteca/main.c
+2k19.1/algo2/tarefa6/biblioteca/myString.c
+2k19.1/algo2/tarefa6/biblioteca/myString.h
+2k19.1/algo2/tarefa6/biblioteca/t1
+2k19.1/algo2/tarefa7/.~lock.Relatório.odt#
+2k19.1/algo2/tarefa7/graficos.odt
+2k19.1/algo2/tarefa7/main.c
+2k19.1/algo2/tarefa7/Pablo_Duarte_da_Silva.zip
+2k19.1/algo2/tarefa7/Relatório.odt
+2k19.1/algo2/tarefa7/t1
+2k19.1/algo2/tarefa7/teste.c
+2k19.1/algo2/tarefa7/testes.txt
+2k19.1/algo2/tarefa7/Pablo_Duarte_da_Silva/atividade07_Part2.pdf
+2k19.1/algo2/tarefa7/Pablo_Duarte_da_Silva/graficos.pdf
+2k19.1/algo2/tarefa7/Pablo_Duarte_da_Silva/main.c
+2k19.1/algo2/tarefa7/Pablo_Duarte_da_Silva/Relatório.pdf
+2k19.1/algo2/tarefa7/Pablo_Duarte_da_Silva/Tabela.pdf
+2k19.1/algo2/tarefa8/atividade08.pdf
+2k19.1/algo2/tarefa8/main.c
+2k19.1/algo2/tarefa8/t1
+2k19.1/algo2/tarefa9/atividade09_arq_seq.pdf
+2k19.1/algo2/tarefa9/main.c
+2k19.1/algo2/tarefa_extra/aaaaa.c
+2k19.1/algo2/tarefa_extra/exame1_2018_02.pdf
+2k19.1/algo2/tarefa_extra/q2.c
+2k19.1/algo2/tarefa_extra/q3.c
+2k19.1/algo2/tarefa_extra/q4.c
+2k19.1/algo2/tarefa_extra/q5.1.c
+2k19.1/algo2/tarefa_extra/q5.c
+2k19.1/algo2/tarefa_extra/t1
+2k19.1/algo2/tarefa_extra2/01.c
+2k19.1/algo2/tarefa_extra2/02.c
+2k19.1/prolog/loop.pl
+2k19.1/prolog/Pablo_Duarte_da_Silva.zip
+2k19.1/prolog/q1.pl
+2k19.1/prolog/q2.pl
+2k19.1/prolog/teste.pl
+2k19.1/prolog/Teste2.pl
+2k19.1/prolog/exercicios/01.pl
+2k19.1/prolog/exercicios/02.pl
+2k19.1/prolog/exercicios/03.pl
+2k19.1/prolog/exercicios/04.pl
+2k19.1/prolog/exercicios/05.pl
+2k19.1/prolog/extra/01.pl
+2k19.1/prolog/extra/02.pl
+2k19.1/prolog/extra/03.pl
+2k19.1/prolog/extra/04.pl
+2k19.1/prolog/extra/05.pl
+2k19.1/prolog/tarefa01/01.pl
+2k19.1/prolog/tarefa01/02.pl
+2k19.1/prolog/tarefa01/03.pl
+2k19.1/prolog/tarefa01/04.pl
+2k19.1/prolog/tarefa01/05.pl
+2k19.1/prolog/tarefa01/q1.pl
+2k19.1/prolog/tarefa02/04.pl
+2k19.1/prolog/tarefas/01.pl
+2k19.1/prolog/tarefas/02.pl
+2k19.1/prolog/tarefas/03.pl
+2k19.1/prolog/tarefas/Gravação-de-tela-de-21-11-2018-23_45_11.mp4
+2k19.1/prolog/tarefas/listaexerciciosProlog.pdf
+2k19.1/prolog/tarefas/listaPL-1.pdf
+2k19.1/prolog/tarefas/listaPL-2.pdf
+2k19.1/prolog/tarefas/modelo relatorio.pdf
+2k19.1/prolog/tarefas/q1.pl
