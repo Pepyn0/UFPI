@@ -4,10 +4,11 @@
 /*
 	A execução do algoritimo consiste em por um número inteiro e, em seguida,
 	o algoritmo irá mostrar todos os seus divisores e finalizará.
-	* Se sua entrada for 10:
-	numero:
+
+	* Exemplo de entrada:
 	10
-	divisores:
+
+	* Exemplo de saída:
 	10
 	5
 	2
@@ -21,9 +22,7 @@ void divisor(int valor, int i);
 int main(int argc, char const *argv[])
 {
 	int n;
-	printf("numero:\n");
 	scanf("%d", &n);
-	printf("divisores:\n");
 	divisor(n, n);
 	return 0;
 }
