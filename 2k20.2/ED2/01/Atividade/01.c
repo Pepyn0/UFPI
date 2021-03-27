@@ -57,5 +57,5 @@ f) O que muda do terceiro para o quarto print?
 	R = O valor de x é alterado para 60 devido a função altera2 que faz a referencia de x receber mais 30 e também altera o py que começa a apontar para o endereco de x.
 
 g) Explique a diferença entre o altera1 e o altera2.
-	R = A função altera1 faz o ponteiro p receber o conteúdo do endereço armazenado no ponteiro a, já a função altera2 faz o ponteiro p receber o endereço de memória armazenado no ponteiro b.
+	R = A função altera1 faz o endereço que p aponta receber o conteúdo do endereço de a, já a função altera2 faz p apontar para o endereço de memória de b.
 */

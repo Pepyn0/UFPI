@@ -31,7 +31,6 @@ void divisor(int valor, int i)
 {
 	if(valor == 0) // Verifica se o valor digitado é 0 e finaliza
 	{
-		printf("%d\n", valor);
 		return;
 	}
 
