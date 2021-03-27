@@ -1039,6 +1039,8 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+*.zip
+
 2k20.1/ED/Avaliativa01/01
 2k20.1/ED/Avaliativa01/01.c
 2k20.1/ED/Avaliativa01/02.c
