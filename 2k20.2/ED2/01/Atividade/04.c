@@ -1,7 +1,22 @@
 #include <stdio.h>
 
+//EXECUÇÃO
+/*
+	A execução do algoritimo consiste em por 4 valores inteiros a serem armazenadas no vetor. Por fim, o algoritmo irá mostrar o maior divisor comum entre os 4(com uma função recursiva sem pendência e em seguida com uma função recursiva com pendência).
 
+	* Exemplo de entrada:
+	5 11 21 30
+
+	* Exemplo de saída:
+	1
+	1
+
+*/
+
+//Recebe 2 valores e uma variável por referência que retornará o maior divisor comum sem pendência;
 int mdc1(int a, int b, int *resp);
+
+//Recebe 2 valores e retorna o maior divisor comum utilizando pendência;
 int mdc2(int n, int resto);
 
 int main(int argc, char const *argv[])
@@ -12,13 +27,13 @@ int main(int argc, char const *argv[])
 
 	int resultado;
 	//Sem pendência
-	mdc1(numeros[0], numeros[1], &resultado);
-	mdc1(numeros[2], resultado, &resultado);
-	mdc1(numeros[3], resultado, &resultado);
+	mdc1(numeros[0], numeros[1], &resultado);	//
+	mdc1(numeros[2], resultado, &resultado);	//
+	mdc1(numeros[3], resultado, &resultado);	//Buscando o mdc dos 4 numeros;
 	printf("%d\n", resultado);
 
 	//Com pendência
-	resultado = mdc2(numeros[0], mdc2(numeros[1], mdc2(numeros[2], numeros[3])));
+	resultado = mdc2(numeros[0], mdc2(numeros[1], mdc2(numeros[2], numeros[3]))); //Buscando o mdc dos 4 numeros com pendencia;
 	printf("%d\n", resultado);
 
 
@@ -26,6 +41,7 @@ int main(int argc, char const *argv[])
 	return 0;
 }
 
+//Recebe 2 valores e uma variável por referência que retornará o maior divisor comum sem pendência;
 int mdc1(int a, int b, int *resp)
 {
 	if(a > b)
@@ -35,7 +51,7 @@ int mdc1(int a, int b, int *resp)
 	else mdc1(b, a, resp);
 }
 
-
+//Recebe 2 valores e retorna o maior divisor comum utilizando pendência;
 int mdc2(int valor, int resto)
 {
 	int result;
