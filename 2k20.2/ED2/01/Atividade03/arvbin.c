@@ -9,12 +9,13 @@ struct no
 	Node *left;
 };
 
-
+//Inicializa o ponteiro, passado por referencia, com null;
 void treeInitialize(Node **root)
 {
 	*root = NULL;
 }
 
+//Recebe o nó raiz da árvore e o valor do novo nó e o insere na árvore;
 void treeInsert(Node **root, int value)
 {
 	if(*root == NULL)
@@ -31,6 +32,7 @@ void treeInsert(Node **root, int value)
 			treeInsert(&(*root)->left, value);
 }
 
+//mostra todos os nós da arvore;
 void treePrint(Node *root)
 {
 	
@@ -42,6 +44,7 @@ void treePrint(Node *root)
 	}
 }
 
+//Recebe a raiz da árvore e a libera por completo;
 void treeFree(Node *root)
 {
 	if(root != NULL)
@@ -52,6 +55,7 @@ void treeFree(Node *root)
 	}
 }
 
+//Recebe a raiz da árvore e o valor a ser buscado na arvore e retorna um ponteiro para o nó se ele existir;
 void treeSearch(Node *root, Node **result, int key)
 {
 	*result = NULL;
@@ -65,6 +69,7 @@ void treeSearch(Node *root, Node **result, int key)
 				treeSearch(root->right, result, key);
 }
 
+//recebe a raiz da arvore e retorna o numero de nós que há na árvore através de um contador passado por referencia;
 void treeNumberNodes(Node *root, int *count)
 {
 	if(root != NULL)
@@ -75,6 +80,7 @@ void treeNumberNodes(Node *root, int *count)
 	}
 }
 
+//Recebe a raiz da árvore e o valor de um nó e retorna a sua profundidade;
 int treeDepthNode(Node *root, int value, int count)
 {
 	int result = 0;
@@ -91,6 +97,7 @@ int treeDepthNode(Node *root, int value, int count)
 	return result;
 }
 
+//Recebe a raiz da arvore e retorna a sua altura;
 int treeHeight(Node *root)
 {
 	int result = -1;
