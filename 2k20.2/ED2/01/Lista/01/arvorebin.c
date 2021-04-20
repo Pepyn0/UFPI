@@ -33,18 +33,19 @@ void treeInsert(Node **root, int value)
 }
 
 
-void treeSearch(Node *root, Node **result, int key)
+void treeSearch(Node *root, int key)
 {
-	*result = NULL;
 	if(root != NULL)
+	{
 		printf("%d\n", root->value);
 		if(root->value == key)
-			*result = root;
+			printf("Encontrou:sdklfjlasdjflasdjflaksjdlfkajsdlkfjalsdkjfaldskjflasdj %d\n", root->value);
 		else
 			if(key < root->value)
-				treeSearch(root->left, result, key);
+				treeSearch(root->left, key);
 			else
-				treeSearch(root->right, result, key);
+				treeSearch(root->right, key);
+	}
 }
 
 
@@ -53,8 +54,8 @@ void treePrint(Node *root)
 	
 	if(root != NULL)
 	{
-		treePrint(root->left);
 		printf("%d\n", root->value);
+		treePrint(root->left);
 		treePrint(root->right);
 	}
 }

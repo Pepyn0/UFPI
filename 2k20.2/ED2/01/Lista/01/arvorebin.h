@@ -7,7 +7,7 @@ typedef struct no Node;
 
 void treeInitialize(Node **root);
 void treeInsert(Node **root, int value);
-void treeSearch(Node *root, Node **result, int key);
+void treeSearch(Node *root, int key);
 void treePrint(Node *root);
 void treeFree(Node *root);
 
