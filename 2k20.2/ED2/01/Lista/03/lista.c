@@ -9,6 +9,8 @@ struct linha
 };
 
 
+
+
 void listInitialize(Line **head)
 {
 	*head = NULL;
