@@ -9,8 +9,6 @@ struct linha
 };
 
 
-
-
 void listInitialize(Line **head)
 {
 	*head = NULL;
@@ -31,6 +29,33 @@ void listInsert(Line **head, int line)
 		new->nLine = line;
 		new->next = *head;
 		*head = new;
+	}
+}
+
+void listRemove(Line **head, int line)
+{
+	if(head != NULL)
+	{
+		Line *anterior = NULL;
+		Line *aux = *head;
+		while(aux->nLine != line && aux != NULL)
+		{
+			anterior = aux;
+			aux = aux->next;
+		}
+
+		if(!anterior)
+		{
+			*head = (*head)->next;
+			free(aux);
+		}
+		else
+			if(aux != NULL)
+			{
+				anterior = aux->next;
+				free(aux);
+			}
+		
 	}
 }
 
