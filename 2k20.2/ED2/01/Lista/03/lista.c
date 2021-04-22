@@ -63,8 +63,8 @@ void listPrint(Line *head)
 {
 	if(head != NULL)
 	{
-		printf("Linha: %d\n", head->nLine);
 		listPrint(head->next);
+		printf(" %d", head->nLine);
 	}
 }
 
