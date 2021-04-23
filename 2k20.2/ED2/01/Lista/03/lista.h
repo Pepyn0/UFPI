@@ -8,6 +8,7 @@ typedef struct linha Line;
 void listInitialize(Line **head);
 void listInsert(Line **head, int line);
 void listRemove(Line **head, int line);
+void listLen(Line *head, int *result);
 void listPrint(Line *head);
 void listFree(Line *head);
 

@@ -126,6 +126,33 @@ void treeRemove(Node **root, char *word)
 	}
 }
 
+int treeRemoveLine(Node **root, char *word, int line)
+{
+	int result = -1;
+	int cmp = strcmp(word, (*root)->word);
+	if(cmp < 0)
+		treeRemoveLine(&(*root)->left, word, line);
+	else if(cmp > 0)
+		treeRemoveLine(&(*root)->right, word, line);
+	else
+	{
+		int nlines;
+		listLen((*root)->line, &nlines);
+		if(nlines == 1)
+		{
+			listFree((*root)->line);
+			treeRemove(root, word);
+			result = 0;
+		}
+		else if(nlines > 1)
+		{
+			listRemove(&(*root)->line, line);
+			result = 1;
+		}
+	}
+	return result;
+}
+
 void treePrint(Node *root)
 {
 	

@@ -11,6 +11,8 @@ typedef struct no Node;
 void treeInitialize(Node **root);
 void treeInsert(Node **root, char *wold, int line);
 void treeSearch(Node *root, char *wold, Node **result, int count);
+void treeRemove(Node **root, char *word);
+int treeRemoveLine(Node **root, char *word, int line);
 void treePrint(Node *root);
 void treeFree(Node *root);
 

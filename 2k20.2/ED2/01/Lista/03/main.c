@@ -47,6 +47,7 @@ int main(int argc, char const *argv[])
 
 		printf("[1] - buscar palavra\n");
 		printf("[2] - apagar palavra de uma linha\n");
+		printf("[3] - adicionar palavra em uma linha\n");
 		printf("[0] - sair\n");
 		scanf("%d", &opc);
 
@@ -77,7 +78,20 @@ int main(int argc, char const *argv[])
 			{
 				int linha;
 				printf("Digite a linha que a palavra será removida:\n");
+				scanf("%d", &linha);
+
+				int saida = treeRemoveLine(&raiz, palavra, linha);
 			}
+		}
+		if(opc == 3)
+		{
+			int linha;
+			char palavra[20];
+			printf("Digite a palavra que quer adicionar\n");
+			scanf("%s", palavra);
+			printf("Digite a linha que quer adicionar a palavra:\n");
+			scanf("%d", linha);
+			treeInsert(&raiz, palavra, linha);
 		}
 	} while (opc != 0);
 

@@ -36,26 +36,44 @@ void listRemove(Line **head, int line)
 {
 	if(head != NULL)
 	{
-		Line *anterior = NULL;
-		Line *aux = *head;
-		while(aux->nLine != line && aux != NULL)
+		Line *anterior;
+		Line *aux;
+		aux = *head;
+		anterior = NULL;
+		while(aux != NULL && aux->nLine != line)
 		{
 			anterior = aux;
 			aux = aux->next;
 		}
 
-		if(!anterior)
+		if(anterior == NULL)
 		{
-			*head = (*head)->next;
+			*head = aux->next;
 			free(aux);
 		}
-		else
-			if(aux != NULL)
-			{
-				anterior = aux->next;
-				free(aux);
-			}
+		else if(aux != NULL)
+		{
+			anterior->next = aux->next;
+			free(aux);
+		}
 		
+	}
+}
+
+void listLen(Line *head, int *result)
+{
+	*result = 0;
+
+	if(head != NULL)
+	{
+		*result += 1;
+		Line *aux;
+		aux = head;
+		while (aux->next != NULL)
+		{
+			*result += 1;
+			aux = aux->next;
+		}
 	}
 }
 
