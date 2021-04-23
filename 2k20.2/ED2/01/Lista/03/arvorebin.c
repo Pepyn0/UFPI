@@ -17,48 +17,112 @@ void treeInitialize(Node **root)
 	*root = NULL;
 }
 
-void treeInsert(Node **root, char *wold, int line)
+void treeInsert(Node **root, char *word, int line)
 {
 	if(*root == NULL)
 	{
 		*root = (Node *) malloc(sizeof(Node));
 		(*root)->left = NULL;
 		(*root)->right = NULL;
-		strcpy((*root)->word, wold);
+		strcpy((*root)->word, word);
 		
 		listInitialize(&(*root)->line);
 		listInsert(&(*root)->line, line);
 	}
 	else
 	{
-		int cmp = strcmp(wold, (*root)->word);
+		int cmp = strcmp(word, (*root)->word);
 
 		if(cmp > 0)
-			treeInsert(&(*root)->right, wold, line);
+			treeInsert(&(*root)->right, word, line);
 		else
 			if(cmp < 0)
-				treeInsert(&(*root)->left, wold, line);
+				treeInsert(&(*root)->left, word, line);
 			else
 				listInsert(&(*root)->line, line);
 	}
 }
 
-void treeSearch(Node *root, char *wold, int count)
+void treeSearch(Node *root, char *word, Node **result, int count)
 {
+	*result = NULL;
 	if(root != NULL)
 	{
-		int cmp = strcmp(wold, root->word);
+		int cmp = strcmp(word, root->word);
 		if(cmp == 0)
 		{
+			*result = root;
 			printf("%s ::", root->word);
 			listPrint(root->line);
 			printf("\n%d passos\n", count);
 		}
 		else
 			if(cmp < 0)
-				treeSearch(root->left, wold, ++count);
+				treeSearch(root->left, word, result, ++count);
 			else
-				treeSearch(root->right, wold, ++count);
+				treeSearch(root->right, word, result, ++count);
+	}
+}
+
+void treeMin(Node *root, Node **result)
+{
+	*result = NULL;
+	if(root != NULL)
+	{
+		Node *aux;
+		aux = root;
+		while (aux->left != NULL)
+		{
+			aux = aux->left;
+		}
+		*result = aux;
+	}
+}
+
+void treeRemove(Node **root, char *word)
+{
+	if(*root != NULL)
+	{
+		int cmp = strcmp(word, (*root)->word);
+		if(cmp < 0)
+			treeRemove(&(*root)->left, word);
+		else if(cmp > 0)
+			treeRemove(&(*root)->right, word);
+		else
+		{
+			if((*root)->left == NULL && (*root)->right == NULL)
+			{
+				free(*root);
+				*root = NULL;
+			}
+			else if((*root)->left == NULL && (*root)->right != NULL)
+			{
+				Node *aux;
+				aux = (*root)->right;
+				free(*root);
+				*root = aux;
+			}
+			else if((*root)->left != NULL && (*root)->right == NULL)
+			{
+				Node *aux;
+				aux = (*root)->left;
+				free(*root);
+				*root = aux;
+			}
+			else
+			{
+				Node *aux;
+				Line *auxLine;
+				char auxWord[20];
+				treeMin((*root)->right, &aux);
+
+				auxLine = aux->line;
+				strcpy(auxWord, aux->word);
+				treeRemove(root, aux->word);
+				(*root)->line = auxLine;
+				strcpy((*root)->word, auxWord);
+			}
+		}
 	}
 }
 
