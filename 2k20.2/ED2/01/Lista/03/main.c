@@ -15,7 +15,7 @@ int main(int argc, char const *argv[])
 	int cCaracter = 0;
 
 	treeInitialize(&raiz);
-	for(int linha = 0; (caracter = fgetc(fPtr)) != EOF; )
+	for(int linha = 1; (caracter = fgetc(fPtr)) != EOF; )
 	{
 		if(caracter != 32 && caracter != '\n')
 		{
@@ -26,20 +26,62 @@ int main(int argc, char const *argv[])
 			linha++;
 			auxPalavra[cCaracter - 1] = '\0';
 			//printf("%s", auxPalavra);
-			treeInsert(&raiz, auxPalavra, linha + 1);
+			treeInsert(&raiz, auxPalavra, linha);
 			cCaracter = 0;
 		}
 		else
 		{
 			auxPalavra[cCaracter] = '\0';
 			//printf("%s", auxPalavra);
-			treeInsert(&raiz, auxPalavra, linha + 1);
+			treeInsert(&raiz, auxPalavra, linha);
 			cCaracter = 0;
 		}
 	}
 	fclose(fPtr);
 
 	treePrint(raiz);
+
+	int opc = 0;
+	do
+	{
+
+		printf("[1] - buscar palavra\n");
+		printf("[2] - apagar palavra de uma linha\n");
+		printf("[0] - sair\n");
+		scanf("%d", &opc);
+
+		if(opc == 1)
+		{
+			char palavra[20];
+			printf("Digite a palavra a ser buscada:\n");
+			scanf("%s", palavra);
+
+			Node *result;
+			treeSearch(raiz, palavra, &result, 1);
+
+			if(!result)
+				printf("palavra não encontrada!\n");
+		}
+		if(opc == 2)
+		{
+			char palavra[20];
+			printf("Digite a palavra a ser buscada:\n");
+			scanf("%s", palavra);
+
+			Node *result;
+			treeSearch(raiz, palavra, &result, 1);
+
+			if(!result)
+				printf("palavra não encontrada!\n");
+			else
+			{
+				int linha;
+				printf("Digite a linha que a palavra será removida:\n");
+			}
+		}
+	} while (opc != 0);
+
+
 	treeFree(raiz);
 	return 0;
 }
