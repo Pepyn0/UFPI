@@ -1,12 +1,10 @@
 from PyQt5 import QtWidgets
 from PyQt5.QtWidgets import QMainWindow, QStackedLayout
 
-from mainWindow import MainWindow
-from registerWindow import RegisterWindow
-from searchWindow import SearchWindow
+from mainWindow import Ui_MainWindow
+from registerWindow import Ui_RegisterWindow
+from searchWindow import Ui_SearchWindow
 
-from pessoa import Pessoa
-from cadastro import Cadastro
 
 class Ui_MultWindow(QtWidgets.QWidget):
 	def setupUi(self, Main):
@@ -18,13 +16,13 @@ class Ui_MultWindow(QtWidgets.QWidget):
 		self.stack1 = QMainWindow()
 		self.stack2 = QMainWindow()
 
-		self.mainScreen = MainWindow()
+		self.mainScreen = Ui_MainWindow()
 		self.mainScreen.setupUi(self.stack0)
 		
-		self.registerScreen = RegisterWindow()
+		self.registerScreen = Ui_RegisterWindow()
 		self.registerScreen.setupUi(self.stack1)
 
-		self.searchScreen = SearchWindow()
+		self.searchScreen = Ui_SearchWindow()
 		self.searchScreen.setupUi(self.stack2)
 
 		self.QtStack.addWidget(self.stack0)
