@@ -18,6 +18,7 @@ class Main(Ui_MultWindow):
 
 		self.registerScreen.pushButtonRegister.clicked.connect(self.buttonRegister)
 		self.searchScreen.pushButtonSearch.clicked.connect(self.buttonSearch)
+		self.searchScreen.pushButtonReturn.clicked.connect(self.returnMainScreen)
 
 	def returnMainScreen(self):
 		self.QtStack.setCurrentIndex(0)
