@@ -1,0 +1,78 @@
+1-
+Taxa máxima de dados = 2 H log2 V bits/s
+H = Frequência de corte
+V = Níveis
+
+2 * 3000 * 1 =
+6000 bps;
+
+Teorema de Shannon = H log2 (1 + S/N)
+S = Potência do Sinal
+N = Potência do Ruído
+
+Relação Sinal-Ruído
+30dB = 10 log 10 S/N =
+S/N = 1000;
+
+3000 log2 (1 + 1000) =
+30000 Hz;
+
+Resposta: ALTERNATIVA A;
+
+
+
+2-
+Resposta: ALTERNATIVA B;
+
+
+
+3-
+a)2
+b)1
+c)3
+d)3
+e)3
+f)2
+
+
+
+4-
+a)V
+b)F
+c)V
+d)F
+B- A Fibra óptica transmite numa frequência máxima de aproximadamente 9 THz;
+F- upLink opera numa frequência de 6GHz, enquanto downLink opera numa frequência de 4GHz;
+
+
+
+5-
+a)V
+b)V
+c)V
+d)F
+e)F 
+D- Na modulação Manchester, existem outras formas de sincronização;
+E- OPK utiliza 2 sinais para codificação do sinal da amplitude e fase;
+
+
+
+6- Sem resposta!
+
+
+
+7-
+Preâmbulo: tem o tamanho de 7bytes e é utilizado o receptor com o clock do emissor;
+
+Endereço MAC Destino: tem o tamanho de 6 bytes e contem o endereço do destinatário;
+
+Endereço MAC origem: tem o tamanho de 6 bytes e contem o endereço da origem;
+
+Dados: tem o tamanho de 46 a 1500 bytes que contêm os dados encapsulados;
+
+CRC: tem o tamanho de 4 bytes e verifica se algum erro foi identificado no recptor;
+
+
+
+8- Sem resposta!
+
